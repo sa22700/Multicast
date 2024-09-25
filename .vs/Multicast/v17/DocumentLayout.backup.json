@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FE21F-15CB-4CB6-828C-02C841EEFF29}|Multicast\\Multicast.vcxproj|C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\Multicast\\Multicast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B79FE21F-15CB-4CB6-828C-02C841EEFF29}|Multicast\\Multicast.vcxproj|solutionrelative:Multicast\\Multicast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FE21F-15CB-4CB6-828C-02C841EEFF29}|Multicast\\Multicast.vcxproj|C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\Multicast\\Multicast_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B79FE21F-15CB-4CB6-828C-02C841EEFF29}|Multicast\\Multicast.vcxproj|solutionrelative:Multicast\\Multicast_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Multicast.cpp",
+              "DocumentMoniker": "C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\Multicast\\Multicast.cpp",
+              "RelativeDocumentMoniker": "Multicast\\Multicast.cpp",
+              "ToolTip": "C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\Multicast\\Multicast.cpp",
+              "RelativeToolTip": "Multicast\\Multicast.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T11:44:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Multicast_test.cpp",
+              "DocumentMoniker": "C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\Multicast\\Multicast_test.cpp",
+              "RelativeDocumentMoniker": "Multicast\\Multicast_test.cpp",
+              "ToolTip": "C:\\Koulu\\C\u002B\u002B\\kouluprokkis\\Multicast\\Multicast\\Multicast_test.cpp",
+              "RelativeToolTip": "Multicast\\Multicast_test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T15:01:43.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
